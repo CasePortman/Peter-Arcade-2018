@@ -39,3 +39,4 @@ for (i = 1 ; i < global.total_ow_coins ; i += 1)
 global.font_numbers_ow = font_add_sprite(spr_ow_font,48,0,1)
 global.font_numbers_ow_numbers = font_add_sprite(spr_ow_font_numbers,48,0,0)
 
+
