@@ -12,6 +12,7 @@ global.level_timer_started = false
 //General
 global.screenshake = 0
 global.player_pause = false
+global.camera_zoom = 0
 
 //IN STAGE
 //Blocks

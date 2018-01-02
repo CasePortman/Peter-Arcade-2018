@@ -78,7 +78,8 @@
 			
 			scr_save()
 			
-			alarm[0] = 60
+			alarm[0] = 10
+			alarm[1] = 180
 		}
 	}
 }
