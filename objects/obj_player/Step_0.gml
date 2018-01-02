@@ -58,6 +58,7 @@ switch(state)
 	{
 		state = 0
 		vsp = global.player_jump_height
+		audio_play_sound(snd_jump,1,false)
 		ledge_grab_cooldown = 0
 	}
 	
@@ -95,7 +96,12 @@ switch(state)
 	if button_jump
 	{
 		if jump_buffer < jump_buffer_max
-		{vsp = global.player_jump_height}
+		{
+			vsp = global.player_jump_height
+			audio_play_sound(snd_jump,1,false)
+			audio_sound_pitch(snd_jump,random_range(0.9,1.1))
+		}
+		
 	}
 
 	if button_jump_released
