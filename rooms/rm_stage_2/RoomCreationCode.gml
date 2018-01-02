@@ -1,0 +1,1 @@
+global.stage = 2

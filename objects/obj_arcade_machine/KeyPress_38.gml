@@ -1,0 +1,1 @@
+global.stage_info[stage,6] = 1

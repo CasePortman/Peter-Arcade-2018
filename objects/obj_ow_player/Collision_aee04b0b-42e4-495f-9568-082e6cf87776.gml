@@ -1,0 +1,1 @@
+global.overworld_layer = 2
