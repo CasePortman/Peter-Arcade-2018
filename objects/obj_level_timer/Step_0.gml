@@ -1,4 +1,4 @@
- if global.level_timer_started = true
+if global.level_timer_started = true
 {
 	if instance_number(obj_pickup)
 	{
@@ -80,6 +80,7 @@
 			
 			alarm[0] = 10
 			alarm[1] = 180
+			
 		}
 	}
 }

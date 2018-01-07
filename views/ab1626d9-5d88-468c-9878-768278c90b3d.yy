@@ -12,9 +12,12 @@
         "d629a852-5438-437f-b8e9-0dc4626cbc18",
         "762c3a6f-b5aa-4654-a51e-d3d13f2e1d33",
         "138c74ed-85c4-4bc6-99c0-c65db0f7297f",
-        "d3d3da0c-ca30-43bb-940e-8df19388074a",
         "58f38358-fd33-427e-9b8d-34d1ba768af0",
-        "f89daf39-fc0a-480a-8c4f-89beb5ad3fca"
+        "d3d3da0c-ca30-43bb-940e-8df19388074a",
+        "f89daf39-fc0a-480a-8c4f-89beb5ad3fca",
+        "f892bdee-403e-4036-b86e-0ff0bb5e5002",
+        "53622c2e-6a41-40e5-8f62-1959e541b54c",
+        "9296e972-6d8a-408a-86cf-5af13745cb48"
     ],
     "filterType": "GMSprite",
     "folderName": "Blocks",

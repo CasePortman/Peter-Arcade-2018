@@ -11,3 +11,8 @@ if active = false
 	if image_angle < 180
 	{image_angle += 10}
 }
+
+if global.switch_solid_block = 0
+{image_speed = 0.25}
+else
+{image_speed = -0.25}

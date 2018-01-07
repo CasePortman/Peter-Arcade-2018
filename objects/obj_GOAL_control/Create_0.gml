@@ -7,3 +7,8 @@ var back_id = layer_background_get_id(BG)
 layer_background_change(back_id,spr_BG_1_win)
 layer_background_speed(back_id,0.1)
 
+with instance_create_depth(x,y,0,obj_player_pause)
+{
+	timer_max = 180
+}
+

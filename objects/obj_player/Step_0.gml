@@ -45,6 +45,8 @@ if global.player_pause = false
 	}
 }
 
+if global.player_pause = false
+{
 switch(state)
 {
 	case 1: //Ledge grab
@@ -177,6 +179,7 @@ switch(state)
 	
 	break;
 	
+}
 }
 
 //Ledge grab

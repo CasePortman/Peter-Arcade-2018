@@ -3,6 +3,11 @@ vsp = 0
 grounded = false
 grav_enabled = true
 
+global.switch_solid_block = 0
+
+global.player_pause = false
+global.player_gravity = 0.2
+
 global.teleport_created = false
 global.level_timer_started = false
 grav = global.player_gravity
