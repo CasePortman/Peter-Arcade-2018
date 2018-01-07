@@ -9,7 +9,6 @@ else
 	
 	if switched = false
 	{
-		image_xscale = 2
 		switched = true 
 	}
 	
@@ -17,7 +16,5 @@ else
 	{room_restart()}
 }
 
-if image_xscale > 1
-{image_xscale -= 0.25}
 
-image_yscale = image_xscale
+

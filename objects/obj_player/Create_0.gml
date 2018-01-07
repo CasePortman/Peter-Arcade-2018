@@ -24,7 +24,7 @@ attack_cooldown = 0
 attack_cooldown_max = 4
 
 rolling = false
-roll_cooldown_max = 30
+roll_cooldown_max = 15
 roll_cooldown = roll_cooldown_max
 
 momentum = false

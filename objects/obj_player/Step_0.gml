@@ -87,6 +87,7 @@ switch(state)
 				{vsp = 0}
 				
 				image_index = 0
+				image_speed = 0.35
 			}
 		}
 	}
@@ -164,6 +165,7 @@ switch(state)
 	{
 		sprite_index = spr_player_roll
 		hsp = (global.player_run_speed * 1.5) * image_xscale
+		image_speed = 0.35
 		
 		if button_jump
 		{
@@ -186,6 +188,7 @@ switch(state)
 if position_meeting(x+image_xscale*5,y,obj_solid)
 and !position_meeting(x+image_xscale*5,y-4,obj_solid) 
 and !place_meeting(x,y+4,obj_solid) 
+and !place_meeting(x,y+8,obj_spring)
 {
 	if grounded = false
 	and vsp > 0.5

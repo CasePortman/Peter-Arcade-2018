@@ -1,8 +1,8 @@
 //STAGE STUFF
 //Player
 global.player_jump_height = -2.6 
-global.player_run_speed = 1.25
-global.player_walk_speed = 1
+global.player_run_speed = 1
+global.player_walk_speed = 0.8
 global.player_gravity = 0.2
 global.teleport_created = false
 
