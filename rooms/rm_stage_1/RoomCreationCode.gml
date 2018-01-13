@@ -1,4 +1,4 @@
-global.stage = 1
+//global.stage = 1
 
 if !audio_is_playing(msc_machine_1)
 {audio_play_sound(msc_machine_1,0,true)}

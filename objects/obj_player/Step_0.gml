@@ -79,15 +79,18 @@ switch(state)
 	{
 		if roll_cooldown = roll_cooldown_max
 		{
-			if button_roll
+			if global.roll_unlocked = true
 			{
-				state = 3
+				if button_roll
+				{
+					state = 3
 				
-				if vsp > 0
-				{vsp = 0}
+					if vsp > 0
+					{vsp = 0}
 				
-				image_index = 0
-				image_speed = 0.35
+					image_index = 0
+					image_speed = 0.35
+				}
 			}
 		}
 	}

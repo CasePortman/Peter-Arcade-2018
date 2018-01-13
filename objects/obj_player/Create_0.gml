@@ -4,6 +4,7 @@ grounded = false
 grav_enabled = true
 
 global.switch_solid_block = 0
+global.switch_door[1] = false
 
 global.player_pause = false
 global.player_gravity = 0.2

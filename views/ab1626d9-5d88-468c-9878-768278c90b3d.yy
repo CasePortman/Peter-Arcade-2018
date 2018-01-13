@@ -5,6 +5,7 @@
     "name": "ab1626d9-5d88-468c-9878-768278c90b3d",
     "children": [
         "461c8eee-5839-4805-8762-33c9fd76b60c",
+        "c73d5767-a402-45d4-9868-c7bfb2c4c7d6",
         "e33bea2e-bb72-4c3b-ab45-23a77d1d27eb",
         "a1e5647a-d779-4c70-af11-af6d974e9ad5",
         "62c45841-101b-488e-8cdb-9dc27f1b7088",
@@ -17,7 +18,10 @@
         "f89daf39-fc0a-480a-8c4f-89beb5ad3fca",
         "f892bdee-403e-4036-b86e-0ff0bb5e5002",
         "53622c2e-6a41-40e5-8f62-1959e541b54c",
-        "9296e972-6d8a-408a-86cf-5af13745cb48"
+        "9296e972-6d8a-408a-86cf-5af13745cb48",
+        "0ffc02a5-23a6-4dd4-adfe-554546d9e7c3",
+        "ff57eb02-c07c-4a71-a939-c3af2c5d3326",
+        "e9f7a038-4aec-4f70-ae74-de83dad8b12c"
     ],
     "filterType": "GMSprite",
     "folderName": "Blocks",

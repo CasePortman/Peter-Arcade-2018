@@ -14,9 +14,14 @@ global.screenshake = 0
 global.player_pause = false
 global.camera_zoom = 0
 
+//Abilities
+global.roll_unlocked = false
+
 //IN STAGE
 //Blocks
 global.switch_solid_block = 0
+global.switch_door[1] = 0
+
 
 //OVERWORLD STUFF
 //Layers
